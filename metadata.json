@@ -1,0 +1,6 @@
+{
+  "name": "SAFECONNECT",
+  "description": "Secure Police–Citizen Communication and Case Management Platform enabling incident reporting, case tracking, and investigation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
